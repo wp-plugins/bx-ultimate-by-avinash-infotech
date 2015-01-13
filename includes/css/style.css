@@ -1,0 +1,72 @@
+h2{
+	font-family:inherit;
+	font-size:24px;
+}
+#box {
+	border:2px solid rgb(218, 218, 218);
+	width: 98%;
+	overflow:hidden;
+	position:relative;
+}
+#box #row h3{
+	padding-left:14px;
+	font-weight: bold;
+	background-color: rgb(252, 252, 252);
+    margin: 0px;
+    padding: 10px;
+	border-bottom: 2px solid rgb(147, 147, 147);
+}
+#row {
+	background: #E7E5E5;
+	padding:10px;
+	border-bottom: 1px solid rgb(247, 247, 247);
+}
+.heading {
+	float:left;
+	width:200px;
+	color:#333;
+	font-size:14px;
+	font-weight:900;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.input-area {
+	float: left;
+	width: 24%;
+	line-height: 57px;
+}
+.input-area select{
+	width: 245px;
+	box-shadow: 2px 2px 0px 0px rgb(205, 205, 205);
+	outline:none;
+}
+.input-area input {
+	display: inline-block;
+	border: 1px solid #dcdcdc;
+	outline: 0 !important;
+	padding: 5px;
+	margin: 0;
+	font: 12px/1.2em Arial;
+	width: 245px;
+	height: 32px;
+	background: white;
+	box-shadow: 2px 2px 0px 0px rgb(205, 205, 205);
+	outline:none;
+}
+.input-area textarea {
+	border: 1px solid #dcdcdc;
+	outline: 0 !important;
+	width: 100%;
+	box-shadow: 2px 2px 0px 0px rgb(205, 205, 205);
+	outline:none;
+}
+.bxslider{
+	margin: 0px 0 !important;
+	padding: 0 0 0 0px !important;
+}
+#row span{
+	width:2px;
+	font-weight: 600;
+	line-height: 1.5;
+}
