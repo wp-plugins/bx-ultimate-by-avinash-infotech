@@ -1,7 +1,7 @@
 <?php
-add_action('wp_head','plugin_hook');
+add_action('wp_head','bx_ultimate_plugin_hook');
 
-function plugin_hook()
+function bx_ultimate_plugin_hook()
 {
 wp_enqueue_script('jquery');
 wp_register_script('slider_js',plugins_url('/js/jquery.bxultimate.js', __FILE__), array('jquery'));
