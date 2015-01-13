@@ -1,10 +1,11 @@
 === Bx Ultimate ===
-Contributer: Sarmistha Chatterjee
+Contributer:Sarmistha Chatterjee
+Donate link: http://www.avinashinfotech.com/
 Tags: slider,image slider,wp slider pluhin
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0
-License: GPLv2 or later
+License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 An easy-to-use WordPress slider plugin for bxUltimate.
@@ -18,7 +19,7 @@ BxUltimate Slider Plugin is an easy-to-use WordPress slider plugin for bxUltimat
 It provides a powerful engine for uploading and managing images,slider images, with the ability to batch upload, add/delete/rearrange and more. It also
 provides a front-end display style slideshows , which come with a wide array of options for controlling  timing, transitions,controls,pager types,speed and more.
 
-*The Bx Ultimate WordPress slider plugin is proudly maintained by <a href='http://www.avinashinfotech.com/blog/bx-ultimate'>Bx Ultimate</a>. 
+The Bx Ultimate WordPress slider plugin is proudly maintained by <a href='http://www.avinashinfotech.com/blog/bx-ultimate'>Avinash Infotech</a>. 
 
 **<a href="http://www.avinashinfotech.com/blog/bx-ultimate">LEARN MORE ABOUT BXULTIMATE SLIDER</a>**
 
@@ -48,15 +49,17 @@ provides a front-end display style slideshows , which come with a wide array of 
 
 = BxUltimate Slider Plugin Resources =
 
-*Visit the NextGEN <a href="http://www.avinashinfotech.com/blog/bx-ultimate" target="_blank">Bx Ultimate</a> official homepage<br>
+*Visit the <a href="http://www.avinashinfotech.com/blog/bx-ultimate" target="_blank">Bx Ultimate</a> official homepage<br>
 
+= Credits =
+BxUltimate is based on [bxSlider](http://bxslider.com/) script by [Steven Wanderski](http://stevenwanderski.com/).
 
 == Installation ==
 
 INSTALLATION: The easiest way to enjoy Bx Ultimate Slider is to login to you WordPress dashboard, go to Plugins >> Add New, search for Bx Ultimate , and click to install. You can also download the zip file from this page and upload it from the Plugins >> Add New > Upload page.
 
-HOW TO USE: Just go to a page or post and click the BxUltimate icon. From our Attach to Post interface, you can create, manage, customize, and display your Sliders. You can also manage your sliders and slider settings from the central options area under the "Bx Ultimate" tab on your dashboard menu. 
-
+You can find your sliders and slider settings from the central options area under the "Bx Ultimate" tab on your dashboard menu.
+ 
 DOCUMENTATION: See <a href="http://www.avinashinfotech.com/blog/bx-ultimate" target="_blank">BxUltimate Slider Documentation</a>.
 
 That's it ... have fun! For more information, feel free to visit the official website for the BxUltimate Slider <a href="http://www.avinashinfotech.com/blog/bx-ultimate" target="_blank">WordPress Slider Plugin</a>.
