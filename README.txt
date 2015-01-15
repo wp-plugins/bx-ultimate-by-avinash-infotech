@@ -21,7 +21,7 @@ provides a front-end display style slideshows , which come with a wide array of 
 
 The Bx Ultimate WordPress slider plugin is proudly maintained by <a href='http://www.avinashinfotech.com/blog/bx-ultimate'>Avinash Infotech</a>. 
 
-**<a href="http://www.avinashinfotech.com/blog/bx-ultimate">LEARN MORE ABOUT BXULTIMATE SLIDER</a>**
+**<a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate">LEARN MORE ABOUT BXULTIMATE SLIDER</a>**
 
 
 = BxUltimate Slider Plugin Features =
@@ -49,7 +49,7 @@ The Bx Ultimate WordPress slider plugin is proudly maintained by <a href='http:/
 
 = BxUltimate Slider Plugin Resources =
 
-*Visit the <a href="http://www.avinashinfotech.com/blog/bx-ultimate" target="_blank">Bx Ultimate</a> official homepage<br>
+*Visit the <a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate" target="_blank">Bx Ultimate</a> official homepage<br>
 
 = Credits =
 BxUltimate is based on [bxSlider](http://bxslider.com/) script by [Steven Wanderski](http://stevenwanderski.com/).
@@ -60,9 +60,9 @@ INSTALLATION: The easiest way to enjoy Bx Ultimate Slider is to login to you Wor
 
 You can find your sliders and slider settings from the central options area under the "Bx Ultimate" tab on your dashboard menu.
  
-DOCUMENTATION: See <a href="http://www.avinashinfotech.com/blog/bx-ultimate" target="_blank">BxUltimate Slider Documentation</a>.
+DOCUMENTATION: See <a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate" target="_blank">BxUltimate Slider Documentation</a>.
 
-That's it ... have fun! For more information, feel free to visit the official website for the BxUltimate Slider <a href="http://www.avinashinfotech.com/blog/bx-ultimate" target="_blank">WordPress Slider Plugin</a>.
+That's it ... have fun! For more information, feel free to visit the official website for the BxUltimate Slider <a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate" target="_blank">WordPress Slider Plugin</a>.
 
 
 == Shortcode ==
@@ -72,7 +72,7 @@ BxUltimate introduces Attach to Post interface, which means you never need to wo
 If you do want to work with shortcodes, we've  powerful, and  flexible shortcode system with Bx Ultimate. 
 The shortcode for our plugin is [BX-ULTIMATE].
 
-For more information, feel free to visit the official website for the Bx Ultimate <a href="http://www.avinashinfotech.com/blog/bx-ultimate/" target="_blank">Bx Ultimate</a>.
+For more information, feel free to visit the official website for the Bx Ultimate <a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate/" target="_blank">Bx Ultimate</a>.
 
 
 == Frequently Asked Questions ==
@@ -80,7 +80,7 @@ For more information, feel free to visit the official website for the Bx Ultimat
 
 = Do you have documentation? =
 
-Yes. See <a href="http://www.avinashinfotech.com/blog/bx-ultimate/" target="_blank">BxUltimate Slider Documentation</a>.
+Yes. See <a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate/" target="_blank">BxUltimate Slider Documentation</a>.
 
 = Will BxUltimate work with my theme? =
 
@@ -104,7 +104,7 @@ Yes, since we use Javascript rather than flash, BxUltimate Slider is compatible 
 
 = More Information =
 
-For more information, feel free to visit the official website for the NextGEN Gallery <a href="http://www.avinashinfotech.com/blog/bx-ultimate/" target="_blank">Bx Ultimate</a>.
+For more information, feel free to visit the official website for the NextGEN Gallery <a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate/" target="_blank">Bx Ultimate</a>.
 
 
 
