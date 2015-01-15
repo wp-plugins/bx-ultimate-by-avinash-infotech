@@ -19,7 +19,7 @@ BxUltimate Slider Plugin is an easy-to-use WordPress slider plugin for bxUltimat
 It provides a powerful engine for uploading and managing images,slider images, with the ability to batch upload, add/delete/rearrange and more. It also
 provides a front-end display style slideshows , which come with a wide array of options for controlling  timing, transitions,controls,pager types,speed and more.
 
-The Bx Ultimate WordPress slider plugin is proudly maintained by <a href='http://www.avinashinfotech.com/blog/bx-ultimate'>Avinash Infotech</a>. 
+The Bx Ultimate WordPress slider plugin is proudly maintained by <a href='http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate'>Avinash Infotech</a>. 
 
 **<a href="http://www.avinashinfotech.com/wordpress-plugins/bx-ultimate">LEARN MORE ABOUT BXULTIMATE SLIDER</a>**
 
